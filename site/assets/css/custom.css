@@ -1,0 +1,21 @@
+.customform{
+    padding:3em 1em;
+    margin:auto;
+    text-align:center;
+}
+
+.jumbotron{
+    margin-bottom:0 !important;
+}
+
+#social a{
+    margin:1em;
+}
+
+.nav-link{
+    color:white!important;
+}
+
+.card-img-top{
+    height:200px;
+}
